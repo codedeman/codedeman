@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RxSwift 
 - 💞️ I’m looking to collaborate on Freelancer
 - 📫 phamtrungkiendev@gmail.com 
-- 🗣 speak English🇬🇧 
+- 🗣 speak English 🇦🇺
 
 <!---
 codedeman/codedeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
