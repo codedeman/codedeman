@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin
 - 👀 I’m interested in Swift language 
-- 🌱 I’m currently learning RxSwift, SwiftUI 
+- 🌱 I’m currently learning RxSwift, SwiftUI, Flutter
 - 💞️ I’m looking to collaborate on Freelancer
 - 📫 phamtrungkiendev@gmail.com 
 - 🗣 speak English 🇦🇺
