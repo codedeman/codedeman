@@ -12,7 +12,7 @@
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 📫 Connect with Me
-- 📧 [Email Me](mailto:phamtrungkiendev@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 [Email Me](mailto:phamtrungkiendev@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kevin-pham-514274141/)
 - 🗣 Fluent in English 🇦🇺
 
 ### 🚀 My Goals
