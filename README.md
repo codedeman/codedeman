@@ -17,7 +17,7 @@
 - **Snapshot Testing**: Capturing and comparing UI states to prevent unintended changes.
 
 ### 📫 Connect with Me
-- 📧 [Email Me](mailto:phamtrungkiendev@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kevin-pham-514274141/)
+- 📧 [Email Me](mailto:phamtrungkiendev@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kevin-pham-514274141/) | 🗣️ [Medium](https://medium.com/@phamtrungkiendev)
 - 🗣 Fluent in English 🇬🇧
 
 ### 🚀 My Goals
