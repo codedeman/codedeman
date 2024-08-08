@@ -11,9 +11,14 @@
 - ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### 🛠 Skills & Testing Expertise
+- **Unit Testing**: Ensuring code reliability through automated tests.
+- **UI Testing**: Verifying user interfaces work as expected.
+- **Snapshot Testing**: Capturing and comparing UI states to prevent unintended changes.
+
 ### 📫 Connect with Me
 - 📧 [Email Me](mailto:phamtrungkiendev@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kevin-pham-514274141/)
-- 🗣 Fluent in English 🇦🇺
+- 🗣 Fluent in English 🇬🇧
 
 ### 🚀 My Goals
 - 🌍 **Global Reach:** Share my knowledge and contribute to the developer community worldwide.
